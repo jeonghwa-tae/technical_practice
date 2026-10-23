@@ -1,0 +1,2 @@
+# technical_practice
+テクニカルスキルチェック用リポジトリ
