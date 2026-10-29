@@ -2,7 +2,8 @@
 console.log("DEBUG: main started");
 
 function main() {
-    console.log("Welcome");
+    // 変更(b): 誤字修正
+    console.log("Welcome to App");
 
     const tempA = 1;
     const tempB = 2;
