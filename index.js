@@ -8,5 +8,7 @@ function main() {
     const tempB = 2;
     const tempC = 3;
 
-    return true;
+    // 変更(c): 機能追加
+    const result = tempA + tempB + tempC;
+    return result;
 }
