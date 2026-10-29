@@ -3,6 +3,7 @@
     return user;
 }
 
-function calculateTotal(price, tax) {
-    return price * (1 + tax);
+function calculateTotal(price, tax, discount = 0) {
+    const discountedPrice = price - discount;
+    return discountedPrice * (1 + tax);
 }
