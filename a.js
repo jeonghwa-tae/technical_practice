@@ -1,5 +1,5 @@
 miyagi_hiroya :13
-sugimoto_yuutaro
+sugimoto_yuutaro-watanabe_haruto
 
 function test() {
 
