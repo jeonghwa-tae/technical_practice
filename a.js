@@ -1,12 +1,1 @@
-test-1
-step07-01
-
-
-peach_peach
-orange
-grape
-
-pink
-orange
-
-miyagi_hiroya:18
+miyagi_hiroya :13
