@@ -1,2 +1,6 @@
 miyagi_hiroya :13
-nishikawa_ryoma
+sugimoto_yuutaro
+
+function test() {
+    console.log("A")
+}
